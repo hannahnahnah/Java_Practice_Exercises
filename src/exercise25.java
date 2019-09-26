@@ -19,7 +19,7 @@ public class exercise25 {
 			System.out.println(stringArr[i]);
 		}
 		
-		
+		scnr.close();
 	}//main
 
 }//class
